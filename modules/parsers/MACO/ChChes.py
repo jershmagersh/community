@@ -1,4 +1,4 @@
-from cape_parsers.CAPE.core.ChChes import extract_config, rule_source
+from cape_parsers.deprecated.ChChes import extract_config, rule_source
 from maco.extractor import Extractor
 from maco.model import ExtractorModel as MACOModel
 

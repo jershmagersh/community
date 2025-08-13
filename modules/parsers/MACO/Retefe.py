@@ -1,4 +1,4 @@
-from cape_parsers.CAPE.community.Retefe import extract_config, rule_source
+from cape_parsers.deprecated.Retefe import extract_config, rule_source
 from maco.extractor import Extractor
 from maco.model import ExtractorModel as MACOModel
 

@@ -1,4 +1,4 @@
-from cape_parsers.CAPE.community.BackOffLoader import extract_config
+from cape_parsers.deprecated.BackOffLoader import extract_config
 from maco.extractor import Extractor
 from maco.model import ExtractorModel as MACOModel
 

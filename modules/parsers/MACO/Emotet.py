@@ -1,4 +1,4 @@
-from cape_parsers.CAPE.core.Emotet import extract_config, rule_source
+from cape_parsers.deprecated.Emotet import extract_config, rule_source
 from maco.extractor import Extractor
 from maco.model import ExtractorModel as MACOModel
 
